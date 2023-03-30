@@ -1,6 +1,6 @@
 ## Presentacion Gianluca Mazzotta
 
-### Estoy estudiando tecnicatura en programacion, ademas de las computadoras me gusta el futbol, soy de boca, tambien me interesa el cine, aca una lista de peliculas que me gustaron mucho:
+### Estoy estudiando tecnicatura en programacion, ademas de las computadoras me gusta el futbol, tambien me interesa el cine, aca una lista de peliculas que me gustaron mucho:
 
 - Tenet
 - Interstellar
@@ -13,6 +13,12 @@
 - Programación estructurada
 - Nuevos entornos y lenguajes
 - Introducción a lógica y problemas computacionales 
+
+### ACtualmente Cursando 🖋:
+- Programacion orientada a objetos
+- Estructura de datos
+- Filosofia
+- Matematica para informatica 2
 
 
 
