@@ -7,5 +7,14 @@
 -Se7en
 -Django
 
+
+###Materias Aprobadas 📖:
+-Taller de lenguajes de marcado y tecnologías web 
+-Programación estructurada
+-Nuevos entornos y lenguajes
+-Introducción a lógica y problemas computacionales 
+
+
+
 ###Dejo mi linkedin👀
 ([Linkedin](https://www.linkedin.com/in/gianluca-mazzotta-5b79b1260/?originalSubdomain=ar))
