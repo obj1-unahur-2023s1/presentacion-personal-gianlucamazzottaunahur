@@ -14,7 +14,7 @@
 - Nuevos entornos y lenguajes
 - Introducción a lógica y problemas computacionales 
 
-### ACtualmente Cursando 🖋:
+### Actualmente Cursando 🖋:
 - Programacion orientada a objetos
 - Estructura de datos
 - Filosofia
